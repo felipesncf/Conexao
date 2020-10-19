@@ -1,2 +1,2 @@
-# Conexao
-Fazer conexão com banco e classe helper para operações
+# Conexao c#
+Fazer conexão com banco SQLServer e classe helper para operações
