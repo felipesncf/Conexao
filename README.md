@@ -1,2 +1,2 @@
 # Conexao
-Conexao Banco
+Fazer conexão com banco e classe helper para operações
